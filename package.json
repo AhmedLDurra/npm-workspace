@@ -2,14 +2,13 @@
   "name": "ngx-daily-gantt-chart-ang10",
   "version": "1.5.3",
   "author": {
-    "name": "Taha Erden",
-    "url": "http://tahaerden.com"
+    "name": "Ahmed Durra"
   },
   "scripts": {
     "watch": "ng build ngx-daily-gantt-chart-ang10 --watch",
     "publishToNpm": "ng build --prod && cd.. && cd.. && cd dist && cd ngx-daily-gantt-chart-ang10 && npm pack && npm publish"
   },
-  "description": "A very simple and easy to use Angular gantt-chart component with a day-view",
+  "description": "ngx-daily-gantt-chart but angular 10",
   "keywords": [
     "angular",
     "component",
